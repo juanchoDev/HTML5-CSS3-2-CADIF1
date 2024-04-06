@@ -1,0 +1,100 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    margin: 0;
+}
+
+header {
+    background-color: #ffffff;
+    color: black;
+    padding: 10px 20px;
+    height: 32px;
+}
+
+.iblock {
+    display: inline-block;
+}
+.elhead {
+    height: 100%;
+}
+
+#h1 {
+    width: 10%;
+    float: left;
+}
+
+#logo {
+    width: 80%
+}
+
+#h2 {
+    width: 60%;
+    border-left-color: #303034;
+    border-left-width: 2px;
+    border-left-style: solid;
+    padding: 1px 25px;
+    box-sizing: border-box;
+    float: left;
+}
+
+#h3 {
+    width: 30%;
+} 
+
+.elnav {
+    height: 100%;
+}
+
+#elnav1 {
+    font-size: 1.2em;
+    font-weight: bold;
+    padding: 5px 0;
+    box-sizing: border-box;
+    float: left;
+    margin-right: 20px;
+}
+
+.elsecnav {
+    height: 100%;
+    padding: 0.7% 2%;
+    float: left;
+    box-sizing: border-box;
+    font-size: 0.9em;
+    color: rgb(78, 78, 78);
+}
+
+.elh3 {
+    margin-right: 3%;
+    height: 100%;
+    float: right;
+}
+
+#noicon {
+    padding: 10px 15px;
+}
+
+#descargas {
+    font-size: 80px;
+    margin: 100px 15px;
+}
+
+.morado {
+    background-color: #d3cdeb;
+    width: 98%;
+    height: 300px;
+    margin: 0px 10px;
+    border: solid;
+    border-width: 10px;
+    border-color: #e8e6ff;
+    border-radius: 1%;
+}
+
+#VSlogo {
+    background-color: #e8e6ff;
+    margin: 15px;
+    padding: 0.5% 0.5%;
+    height: 10%;
+    width: 5%;
+}
