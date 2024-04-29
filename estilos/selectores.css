@@ -1,0 +1,30 @@
+p ~ span{
+    color: red;
+}
+h2 + p{
+    color: purple;
+}
+/* *[class*="btn"]{
+    color: green;
+} */
+p{
+    color: red;
+}
+*[class^="bt"]{
+    color: aqua;
+}
+#cambio{
+    color: yellow;
+}
+hr{
+    border: 2px solid red;
+}
+ul > li:nth-child(6){
+    color: green;
+    background: red;
+    font-weight: bold;
+}
+ul > li:nth-child(2n){
+    /* color: blueviolet; */
+    background: lightcoral;
+}
